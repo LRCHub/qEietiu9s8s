@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "INFINITY",
+  "base_artist": "BACK-ON",
+  "createdAt": "2026-01-05T20:43:59.195827Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Infinity",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/01_Infinity_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tomorrow Til Infinity",
+      "artist": "Young Thug feat. Gunna",
+      "has_synced": true,
+      "path": "select/02_Tomorrow_Til_Infinity_Young_Thug_feat._Gunna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tomorrow Til Infinity",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/03_Tomorrow_Til_Infinity_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Infinity",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_Infinity_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Infinity Boy",
+      "artist": "Oliver Francis",
+      "has_synced": true,
+      "path": "select/05_Infinity_Boy_Oliver_Francis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beyond the Gates of Infinity",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/06_Beyond_the_Gates_of_Infinity_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beyond the Gates of Infinity - Re-Recorded",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/07_Beyond_the_Gates_of_Infinity_-_Re-Recorded_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beyond the Gates of Infinity",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/08_Beyond_the_Gates_of_Infinity_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Infinity",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/09_Infinity_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Infinity (Bonus track)",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/10_Infinity_(Bonus_track)_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cartoon Heroes - Love To Infinity Classic Radio Mix",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/11_Cartoon_Heroes_-_Love_To_Infinity_Classic_Radio_Mix_Aqua.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Carton Heroes (Love to Infinity classic radio mix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/12_Carton_Heroes_(Love_to_Infinity_classic_radio_mix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Belong To the Sea (Love To Infinity Master Mix)",
+      "artist": "Aqua feat. Love To Infinity",
+      "has_synced": false,
+      "path": "select/13_We_Belong_To_the_Sea_(Love_To_Infinity_Master_Mix)_Aqua_feat._Love_To_Infinity.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Infinity - Geometrical Mix",
+      "artist": "U.S.U.R.A. / Datura",
+      "has_synced": false,
+      "path": "select/14_Infinity_-_Geometrical_Mix_U.S.U.R.A.___Datura.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Infinity 2008 (Jerome Isma-Ae Remix)",
+      "artist": "Guru Josh Project",
+      "has_synced": false,
+      "path": "select/15_Infinity_2008_(Jerome_Isma-Ae_Remix)_Guru_Josh_Project.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Infinity 2008 (Klaas Remix)",
+      "artist": "Guru Josh Project",
+      "has_synced": false,
+      "path": "select/16_Infinity_2008_(Klaas_Remix)_Guru_Josh_Project.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INFINITY",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/pl_01_INFINITY_BACK-ON.txt"
+    }
+  ]
+}
